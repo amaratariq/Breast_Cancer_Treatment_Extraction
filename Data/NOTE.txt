@@ -1,0 +1,16 @@
+Place cancer registry data here if evaluation, training, or finetuning is needed. The file must have the following information columns
+
+[ 	'Clinic #', 
+	'Surg, Date Most Def Tx',
+        'Surg, Date of Tx, Hist',
+        'Rad, Summ Date Start',
+        'Rad, Summ Date End',
+        'Chemo, Summ Date Start',
+        'Chemo, Summ Date End',
+        'Hormone, Summ Date Started',
+        'Immuno, Summ Date Start' 	]
+
+
+Place files containing clinical notes in subfolder named "clinical_notes".
+
+
