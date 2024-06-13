@@ -1,7 +1,7 @@
 Pipeline includes all processing steps. You can use or remove any steps based on your own preprocessing.
 
 ** 1- Marking of clincial notes with sentences mentioing relevant medication and treatment concepts
-** 2- Parsing of cacner registry data for assigning labels for evaluation or finetuning or training
+** 2- Parsing of cancer registry data for assigning labels for evaluation or finetuning or training
 ** 3- Model training
 ** 4- Inference
 
@@ -16,4 +16,4 @@ Input arguments are listed below.
 
 Sample command is as follows.
 
-```python3 breast_cancer_treatment_prediction_pipeline.py data_dir/ true registry_data.csv patients_split.pkl  models/qamodel_biogpt_512_2013_2020_v2 ./'''
+```python3 pipeline.py ../Data/ true registry_data.csv patients_split.pkl  models/qamodel_biogpt_512_2013_2020_v2 ./```
