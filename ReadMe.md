@@ -1,6 +1,6 @@
 # Extraction of Breast Cancer Treatment Information from Clinical Notes
 
-![](covid19_trajectory.jpg)
+![](breastcancer.jpg)
 * Framework for extraction of temporal treatment information from longitudinal free-text clinical notes of a breast cancer patient - phase 1 is rule-based text snippet extraction and phase 2 is LLM based question-answering (Q&A) framework fine-tuning.
 
 
