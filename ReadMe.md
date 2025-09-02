@@ -6,7 +6,7 @@
 
 * Pipeline includes all processing steps. You can use or remove any steps based on your own preprocessing.
 
-- Marking of clincial notes with sentences mentioing relevant medication and treatment concepts
+- Marking of clincial notes with sentences mentioning relevant medication and treatment concepts
 - Parsing of cancer registry data for assigning labels for evaluation or finetuning or training
 - Model training
 - Inference
